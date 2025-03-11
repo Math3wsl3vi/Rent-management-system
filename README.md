@@ -33,7 +33,7 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-  git clone https://github.com/ma/rent-io.git
+  [git clone https://github.com/ma/rent-io.git](https://github.com/Math3wsl3vi/Rent-management-system.git)
   cd rent-io
 ```
 
